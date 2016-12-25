@@ -1,5 +1,5 @@
 #include <UbidotsYUN.h>
-#define TOKEN "L4xfaH7OFvkxXuUgyxFyMWNaXBpzZ7t89eavkq2lBj1mNjOLeCPGQ2Ahw1WV"
+#define TOKEN "Write the token here "
 
 
 Ubidots client(TOKEN);
