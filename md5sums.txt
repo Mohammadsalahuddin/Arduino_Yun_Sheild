@@ -1,0 +1,3 @@
+2def018e98017c96c07512669fad181a *openwrt-ar71xx-generic-dragino2-kernel.bin
+d214b4d661118ce52959b11d12f4941f *openwrt-ar71xx-generic-dragino2-rootfs-squashfs.bin
+611115ad81189217ae08f96595aa85cf *openwrt-ar71xx-generic-dragino2-squashfs-sysupgrade.bin
